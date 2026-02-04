@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.17.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_7452291</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>282</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_7452291</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>282</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_000288420.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DNA-3-methyladenine glycosylase 2 [Enterobacteriaceae] &gt;ref|NP_416572.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli str. K-12 substr. MG1655] &gt;sp|P04395.1| RecName: Full=DNA-3-methyladenine glycosylase 2; AltName: Full=3-methyladenine-DNA glycosylase II, inducible; Short=TAG II; AltName: Full=DNA-3-methyladenine glycosidase II; AltName: Full=DNA-3-methyladenine glycosylase II [Escherichia coli K-12] &gt;pdb|1DIZ|A Chain A, 3-METHYLADENINE DNA GLYCOSYLASE II [Escherichia coli] &gt;pdb|1DIZ|B Chain B, 3-METHYLADENINE DNA GLYCOSYLASE II [Escherichia coli] &gt;pdb|1MPG|A Chain A, 3-METHYLADENINE DNA GLYCOSYLASE II [Escherichia coli] &gt;pdb|1MPG|B Chain B, 3-METHYLADENINE DNA GLYCOSYLASE II [Escherichia coli] &gt;pdb|1PVS|A Chain A, DNA-3-methyladenine glycosylase II [Escherichia coli] &gt;pdb|1PVS|B Chain B, DNA-3-methyladenine glycosylase II [Escherichia coli] &gt;pdb|3CVS|A Chain A, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CVS|B Chain B, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CVS|C Chain C, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CVS|D Chain D, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CVT|A Chain A, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;pdb|3CVT|B Chain B, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;pdb|3CVT|C Chain C, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;pdb|3CVT|D Chain D, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;pdb|3CW7|A Chain A, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CW7|B Chain B, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CW7|C Chain C, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CW7|D Chain D, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWA|A Chain A, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWA|B Chain B, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWA|C Chain C, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWA|D Chain D, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWS|A Chain A, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWS|B Chain B, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWS|C Chain C, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWS|D Chain D, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWT|A Chain A, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWT|B Chain B, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWT|C Chain C, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWT|D Chain D, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWU|A Chain A, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWU|B Chain B, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWU|C Chain C, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3CWU|D Chain D, DNA-3-methyladenine glycosylase 2 [unidentified] &gt;pdb|3D4V|A Chain A, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;pdb|3D4V|B Chain B, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;pdb|3D4V|C Chain C, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;pdb|3D4V|D Chain D, DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|AGX34129.1| 3-methyl-adenine DNA glycosylase II [synthetic Escherichia coli C321.deltaA] &gt;gb|EEY7948751.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli H30] &gt;gb|EEZ5648952.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O20] &gt;gb|EEZ5781309.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O40] &gt;gb|EEZ6072183.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O6] &gt;gb|EEZ6460371.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O16] &gt;gb|EEZ6615795.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O21] &gt;gb|EEZ9680754.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O55] &gt;gb|EFA4164935.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O70:H25] &gt;gb|EFA4482051.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O2] &gt;gb|EFA8200897.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O157] &gt;gb|EFA8745510.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O117] &gt;gb|EFB2693208.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O157:H7] &gt;gb|EFB4126633.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O100] &gt;gb|EFN8440606.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O119] &gt;gb|EGU26365.1| 3-methyl-adenine DNA glycosylase II [Escherichia coli XH140A] &gt;gb|EHV70750.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli DEC6D] &gt;gb|EHW90124.1| 3-methyl-adenine DNA glycosylase II, inducible [Escherichia coli DEC10E] &gt;gb|EHX80324.1| 3-methyl-adenine DNA glycosylase II, inducible [Escherichia coli DEC14B] &gt;gb|EHX88441.1| 3-methyl-adenine DNA glycosylase II, inducible [Escherichia coli DEC14C] &gt;gb|EMZ2630034.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O8:H11] &gt;gb|EMZ2637760.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O13/O135:H23] &gt;gb|ENA6181939.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O62/O68:H12] &gt;gb|END0226845.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O157:H26] &gt;gb|END2857835.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O16:H2] &gt;gb|ENR9116425.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O75:H38/H55] &gt;gb|ENU5893632.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O179/8:H45] &gt;gb|ENY4301029.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O45:H4] &gt;gb|ENY4333995.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O150:H11] &gt;gb|EOM3674144.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O9,9a] &gt;gb|EOM3708668.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O160:H34] &gt;gb|EOM3754645.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O9,9a:H30] &gt;gb|EOM3782675.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O11:H4] &gt;gb|EOM3811789.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O179,8:H19] &gt;gb|EOW5430575.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O51:H4] &gt;gb|EOW5464636.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O141,141ab,141ac:H43] &gt;gb|EOW5476738.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O169] &gt;gb|EOW5481488.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli H32] &gt;gb|EOW5554055.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O45:H45] &gt;gb|EOW5601090.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O102:H32] &gt;gb|EOW5684460.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O187:H4] &gt;gb|EOW5831155.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O8,155:H20] &gt;gb|EOW5933768.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O8:H20] &gt;gb|EPA7279632.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O75:H9] &gt;gb|EPA7288761.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O33:H4] &gt;gb|EPA7310420.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O45:H8] &gt;gb|EPA7367980.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O9:H16] &gt;gb|EPC6737637.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O127:H40] &gt;gb|EPC6747314.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O21,81:H5,27] &gt;gb|EPD0891001.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli H11] &gt;gb|MEE6808658.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O113:H4] &gt;gb|MEE7226584.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O6:H10] &gt;gb|MSS03021.1| DNA-3-methyladenine glycosylase 2 [Enterobacteriaceae bacterium] &gt;dbj|BAL38880.1| 3-methyl-adenine DNA glycosylase II [Escherichia coli str. K-12 substr. MDS42] &gt;tpg|HCB3975769.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O25b:H4-ST131] &gt;tpg|HCC7242560.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O141:H32] &gt;tpg|HDQ6466551.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli O11 str. Bi632-42] &gt;tpg|HDR9929135.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli 3350-73 (13a)] &gt;tpg|HDS1990465.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli Bal225]</Hit_def>
+  <Hit_accession>WP_000288420</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.785</Hsp_bit-score>
+      <Hsp_score>1488</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|EKP2231537.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EKP2231537</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.4</Hsp_bit-score>
+      <Hsp_score>1487</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHVWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLH+WYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|EGS2100496.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EIQ0118807.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EGS2100496</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.015</Hsp_bit-score>
+      <Hsp_score>1486</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQSLKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQ+LKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_081508800.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|ARE47157.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli C] &gt;gb|ATU34559.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EAB6126537.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFC7315717.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFG7390875.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_081508800</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.015</Hsp_bit-score>
+      <Hsp_score>1486</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTAKVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTA+VAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>tpg|HBE5877052.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HBE5877052</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.015</Hsp_bit-score>
+      <Hsp_score>1486</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLSARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFL+ARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|MDD8586990.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>MDD8586990</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.015</Hsp_bit-score>
+      <Hsp_score>1486</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTSNYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWT+NYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_131968261.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia sp. KCJ4943] &gt;gb|TDE71918.1| DNA-3-methyladenine glycosylase 2 [Escherichia sp. KCJ4943]</Hit_def>
+  <Hit_accession>WP_131968261</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.015</Hsp_bit-score>
+      <Hsp_score>1486</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGSARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLG+ARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>tpg|HAW3786879.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HAW3844124.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HDN1515739.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HDX1844486.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HEA0618039.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HAW3786879</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQVKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQ KDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gb|EFC4434953.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFO0749363.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EFC4434953</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTVNYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWT NYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_447329325.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MGS5226781.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_447329325</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIVRHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDI RHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|WP_247145628.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_247145628</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQIYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQ+YGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gb|EGH6638939.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EGH6638939</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDFLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDD+LIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|WP_250308853.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_250308853</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMVAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAM AKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|WP_204148177.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFL0615479.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|END9543506.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MDF4109331.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MDM1577674.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MEC6450155.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_204148177</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDITRHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDI RHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>tpg|HDK2190736.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HDK2190736</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLTARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFL ARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>tpg|HGD7999476.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HGD9228284.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HGD7999476</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLTAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRL AADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>tpg|HBE5161223.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HBE5161223</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVTAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPV AECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gb|EFN0013229.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|END2215308.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|END2228369.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|ENG0296467.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|ENG0314436.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EFN0013229</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEVLIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAE LIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gb|EFK3481342.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EFK3481342</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGTARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLG ARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gb|EGJ7725795.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HHT4008050.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EGJ7725795</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAVKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMA KLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>tpg|HDN0667619.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HDN0667619</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQTMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQ MKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|WP_097478168.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EEZ5315612.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFN8206663.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFN8289414.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFO3243491.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFO3482811.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_097478168</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAKIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPA+IRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gb|EIH0545647.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EIH0545647</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYTRSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYY RSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|WP_423688120.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EJA7670518.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MGA6465684.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_423688120</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYTLLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSY LLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>tpg|HHL4854025.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HHL4854025</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQVLKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQ LKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>tpg|HGT5683727.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HGT5740499.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HGT5683727</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGVARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLG ARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>tpg|HCO7920491.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HCO7920491</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWKPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGW+PDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>tpg|HAW0811295.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HAW0811295</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYVLLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSY LLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gb|END4663691.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HHP3321307.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>END4663691</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVVMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSV MAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>tpg|HCO6727205.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HCO6727205</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWSANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRW+ANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|WP_374057235.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MGP4227974.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MGP4530629.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;dbj|BEC41268.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HFI7840158.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_374057235</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLVVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSL VGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|WP_319766244.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EHV0151508.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_319766244</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAVRPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGA RPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>tpg|HFT7831837.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>HFT7831837</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAVDPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAA DPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|WP_072665501.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DNA-3-methyladenine glycosylase 2 [Escherichia] &gt;gb|MBY0699696.1| DNA-3-methyladenine glycosylase 2 [Escherichia sp. NT45] &gt;gb|MCE3522712.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MCE3528018.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MCE3547176.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MCE3563970.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_072665501</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLMKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYL+KQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|WP_407861063.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HFT8968225.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_407861063</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGSLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEG+LPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gb|EKJ3286958.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EKX4079605.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EPK8874075.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;dbj|BEA53510.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;dbj|GAB0508556.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EKJ3286958</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLVAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRL AADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|WP_407982119.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MFL9096271.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_407982119</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANATLEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANA LEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|WP_113418051.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EAC2071758.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EEW1770304.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFA3694395.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFA4366871.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EFE7186568.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_113418051</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFVLRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYF LRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|WP_023147836.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|AWF25297.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|EOX0879340.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|ESD72861.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli 908555] &gt;gb|MCK3622817.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MDK3459126.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_023147836</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKVLGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALK LGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|WP_170876756.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MED8374887.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MED8431945.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|NNS62999.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|NNS90844.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|NNS96602.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_170876756</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYVRSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYY RSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|WP_274486198.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MDD8905047.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MGT5001709.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_274486198</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANVALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLAN ALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gb|EHC5010305.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EHC5010305</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.63</Hsp_bit-score>
+      <Hsp_score>1485</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTVRVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLT RVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|WP_124072400.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;emb|VCY62772.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_124072400</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEELIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAE LIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gb|MDM4858728.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|WHG66386.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|WHG70861.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|WHH72635.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>MDM4858728</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEATLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALE TLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>ref|WP_265740266.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MCX0101706.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;gb|MCX0125017.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_265740266</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYLCFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEY+CFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gb|EFC7373121.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EFC7373121</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPNIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIP+IARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gb|EOM4073694.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>EOM4073694</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGELGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNG LGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gb|EPA7364701.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli O8:H9]</Hit_def>
+  <Hit_accession>EPA7364701</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGIPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALG+PLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|WP_343121514.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HCP5438961.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli] &gt;tpg|HCP5466050.1| DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_343121514</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANEALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLAN ALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|WP_088550809.1|</Hit_id>
+  <Hit_def>DNA-3-methyladenine glycosylase 2 [Escherichia coli]</Hit_def>
+  <Hit_accession>WP_088550809</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>576.244</Hsp_bit-score>
+      <Hsp_score>1484</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>282</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_qseq>
+      <Hsp_hseq>MYTLNWQPPYDWSWMLGFLAARAVSNVETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_hseq>
+      <Hsp_midline>MYTLNWQPPYDWSWMLGFLAARAVS+VETVADSYYARSLAVGEYRGVVTAIPDIARHTLHINLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRAILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAEALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYLIKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>992672285</Statistics_db-num>
+      <Statistics_db-len>377385951225</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
